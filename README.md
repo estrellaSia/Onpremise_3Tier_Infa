@@ -26,7 +26,7 @@
 ![Untitled (25)](https://github.com/estrellaSia/Onpremise_3Tier_Infa/assets/127510529/d191c905-aeb2-4e1c-8bae-157b91250d04)
 
 - WAS 서버 이중화
-  - 사용자에게 지속적인 서비스 제공을 위한 WAS 이중화 구
+  - 사용자에게 지속적인 서비스 제공을 위한 WAS 이중화 구현 
 ![Untitled (26)](https://github.com/estrellaSia/Onpremise_3Tier_Infa/assets/127510529/00445df4-1a21-4107-8eef-057eabe87c80)
 
 - NAT & DNS 설정
